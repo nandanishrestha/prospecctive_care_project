@@ -1,0 +1,48 @@
+#topbar{
+    background-color: #082A4A;
+}
+.navitem{
+    color: grey;
+}
+#hero{
+    background-image: url(cover.png);
+    background-size: cover;
+    background-position: CENTER;
+    padding-top: 235px;
+    padding-bottom: 235px;
+
+}
+.briefcase{
+    color: rgba(223, 115, 27, 0.922);
+  
+}
+.flex{
+    display: flex;
+}
+.card-1{
+    background: linear-gradient(to right,#5A154A,#922278);
+}
+.card-2{
+    background: linear-gradient(to right,#A13172,#C33E8B);
+}
+.card-3{
+    background: linear-gradient(to right,#E73056,#E95038);
+}
+.card-4{
+    background: linear-gradient(to right,#F28A19,#F9B107);
+}
+.card-5{
+    background: linear-gradient(to right,#77AC43,#94CA5F);
+}
+.card-6{
+    background: linear-gradient(to right,#235683,#048FA3);
+}
+.card-7{
+    background: linear-gradient(to right,#48B2BC,#95D0D3);
+}
+.card-8{
+    background: linear-gradient(to right,#279A96,#2EAEA9);
+}
+.love{
+    display: flex;
+}
